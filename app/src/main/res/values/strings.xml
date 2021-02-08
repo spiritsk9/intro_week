@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">VirtueTask1</string>
+    <string name="prompt_email">Email ID </string>
+    <string name="prompt_username">Email ID / Mobile Number </string>
+    <string name="prompt_mobile">Mobile Number</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="promt_forgot_password">Forgot Password ?</string>
+    <string name="Promt_Or">Or</string>
+</resources>
